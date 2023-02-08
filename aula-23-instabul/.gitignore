@@ -1,0 +1,5 @@
+node_modules/
+.nyc_output
+converage
+src/config/.env.dev
+src/config/.env.prod
